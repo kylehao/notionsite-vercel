@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://free263.notion.site/$1"}
+      {"src": "/(.*)","dest": "https://free263.notion.site/24521237859c4d0eb4728644a840dead/$1"}
   ]
 }
